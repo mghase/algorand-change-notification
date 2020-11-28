@@ -1,0 +1,28 @@
+{
+  "name": "algorand-price-change-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mghase/algorand-price-change-notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mghase/algorand-price-change-notification/issues"
+  },
+  "homepage": "https://github.com/mghase/algorand-price-change-notification#readme",
+  "devDependencies": {
+    "electron": "11.0.3",
+    "electron-reload": "^1.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
